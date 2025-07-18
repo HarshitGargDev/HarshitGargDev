@@ -1,15 +1,15 @@
-<h1 align="center">👋 Welcome to My GitHub!</h1>
+<h1 align="center">🔁 Redirect to Primary GitHub</h1>
 
 <p align="center">
-  This is a <strong>secondary GitHub account</strong> used only for login, verification, and job application forms.
+  This is a <strong>secondary GitHub account</strong> used only for login and verification purposes (e.g. company forms).
 </p>
 
 <p align="center">
-  🚀 For my complete portfolio, contributions, and open-source work, please visit my main GitHub account:
+  🚀 Please visit my main GitHub profile to explore my projects, contributions, and tech journey:
 </p>
 
 <h2 align="center">
-  🔗 <a href="https://github.com/harshitgarg11">github.com/harshitgarg11</a>
+  👉 <a href="https://github.com/harshitgarg11">github.com/harshitgarg11</a>
 </h2>
 
 ---
