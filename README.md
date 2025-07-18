@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome!</h1>
 
-<!--
-**HarshitGargDev/HarshitGargDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  This is a <strong>secondary GitHub account</strong> used only for login and authentication purposes (e.g., job application forms).
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 For all of my real work, projects, and contributions, please visit my main GitHub profile:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+  🔗 <a href="https://github.com/harshitgarg11">github.com/harshitgarg11</a>
+</h2>
+
+---
+
+<p align="center">
+  Thanks for dropping by!<br>
+  If you're looking to collaborate, hire, or explore my work, head over to the main profile above.
+</p>
