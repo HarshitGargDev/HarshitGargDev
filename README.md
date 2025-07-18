@@ -29,7 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" style="margin: 0 15px;" />
   </a>
   <a href="https://x.com/harshitgarg_">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_X_icon.svg" height="50" alt="X" style="margin: 0 15px;" />
+    <img src="https://img.icons8.com/?size=512&id=4Zp1aFqtk8dA&format=png" height="50" alt="X" style="margin: 0 15px;" />
   </a>
   <a href="https://www.instagram.com/__harshit.garg?igsh=Mmo4YWNsZjk0dHZk">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="50" alt="Instagram" style="margin: 0 15px;" />
